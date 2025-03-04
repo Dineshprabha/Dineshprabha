@@ -6,13 +6,10 @@
 ### <div align="center">I'm Dinesh N, a full-time Android developer 👨‍💻 Currently looking for job 🚀</div>  
   
 
-- 🔭 I’m currently working on compose  
-  
-
 - 🌱 I’m currently learning Jetpack Compose and KMM  
   
 
-- ❓ Ask me about anything related to native android and related technologies  
+- ❓ Ask me about anything related to native Android and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
