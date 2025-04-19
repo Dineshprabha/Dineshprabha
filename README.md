@@ -3,17 +3,26 @@
 </div>  
   
 
-### <div align="center">I'm Dinesh N, a full-time Android developer 👨‍💻 Currently looking for job 🚀</div>  
-  
+### <div align="center">Hey there! I'm Dinesh N 👋</div>  
+<div align="center">🚀 A passionate Android Developer | Freelancer | Actively seeking full-time Android roles</div>  
 
-- 🌱 I’m currently learning Jetpack Compose and KMM  
-  
+---
 
-- ❓ Ask me about anything related to native Android and related technologies  
-  
+- 🛠️ Enthusiast in building smooth, modern Android apps using **Kotlin**, **Jetpack Compose**, and **MVVM**  
+- 🧠 Currently diving deeper into **KMM (Kotlin Multiplatform Mobile)** and **Backend Development with Ktor**  
+- 🌍 I love solving real-world problems through clean, scalable mobile experiences  
+- 💬 Ask me anything about **Native Android**, **Firebase**, **Jetpack**, or **App Architecture**  
+- 🔧 Fun Fact: I prefer **tabs over spaces**, and dark theme is life 😎  
+- 📬 Open to exciting full-time opportunities — let's build the future together!
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+---
+
+### 📱 Let's connect and collaborate!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dineshn1205)  
+- 🧑‍💻 [GitHub](https://github.com/Dineshprabha)  
+- ✉️ dinesh.prabha1205@gmail.com  
+
+---
 
 <br/>  
 
